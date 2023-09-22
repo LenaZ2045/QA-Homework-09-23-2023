@@ -1,0 +1,37 @@
+QA Homework Teacher: Bulich Pavel
+Group: 260623-e
+Date: 14.09.2023
+Deadline: 23.09.2023
+Student: Yelena Zimin
+
+Exercise #1
+
+Gradation Type of Testng №1
+
+Quality Standard for the https://docs.google.com/document/d/1wEPABKq072R0GYYquODLpmOxPT5d0xccSb01DjX8E/edit?usp=sharing link file is
+BLOCKER & CRITICAL
+When entering this address to the browser it is not openning and sayng that the (Page Not Found)
+It gives written expalanation that the (Requested file does not exists)
+GRADATON TYPE OF TESTING for this issue:
+	-if no other file to replace this link file address is available, BLOCKER/CRITICAL fix it now HIGH priority
+	-if other file is available to replace this link file address, BLOCKER/CRITICAL fix it when will have time LOW priority
+
+Gradation Type of Testng №2
+
+I opened this website http://ufo.telran-edu.de:8888 and the bag that clearly pops up in front of your eyes is:
+WEBSITE IS NOT SECURE! I suppose that clients are not going to feel safe visiting  and using this website!
+
+The type of testing for GRADATION is 
+	-MINOR - it is uncorfortable to use unsecured websites, 
+	-and it should be fixed as MIDDLE priority order
+	within 8 hours!
+
+Gradation Type of Testng №3
+
+I opened the address link https://www.figma.com/file/97hJZ8pttXwkeAkrYAZXmc/UFO?node-id=0%3A1&t=iajlwc21ZHZGQtiU-0) in the browser
+and I noticed that really attracts and pops up into the view is that all the attached uploads pictures are in very little miniature sizes
+I would explain this Standard of Quality GRADATION TYPE OF TESTING as:
+	-MINOR it is uncomfortable to use zoon in and zoom out until you set comfortable size to view the documents
+	-and following the first phrase this bag is MIDDLE priority order to be fixed within 8 hours time frame
+
+Thank you!
